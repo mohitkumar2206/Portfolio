@@ -5,7 +5,7 @@ A responsive portfolio for Mohit Kumar, BCA AI student and Front-End Developer.
 ## Projects
 - House Price Prediction: https://github.com/mohitkumar2206/House-Price-Prediction
 - MovieCard: https://github.com/mohitkumar2206/MovieCard
-- - SmartFinance – AI-Powered Financial Services: https://github.com/mohitkumar2206/Smartfinance
+- SmartFinance – AI-Powered Financial Services: https://github.com/mohitkumar2206/Smartfinance
 - AI Resume Builder with ATS Score: In Development
 
 ## Contact
